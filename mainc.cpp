@@ -1,10 +1,6 @@
 //
-//  main.c
-//  Ders1
-//
-//  Created by Gurel Erceis on 2/10/13.
-//  Copyright (c) 2013 Yogurt3D. All rights reserved.
-//
+//hasan KAPUKIRAN
+//040080196
 #include<windows.h>
 #include <stdio.h>
 #include <GL/gl.h> 
